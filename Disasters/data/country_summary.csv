@@ -1,0 +1,193 @@
+continent,country,iso,total_deaths,total_affected,total_damages,total_occurrences,gdp_per_capita,total_co2,co2_per_cap,population,country_x,country_y,standardized,gni_per_capita,bins
+Africa,Algeria,DZA,8633,2507531,11814846,88,4142.018558,165539.9933,3.920109085,42228415,Algeria,Algeria,Algeria,3980,Upper-Middle Income
+Africa,Angola,AGO,5983,8870587,12000,74,2524.942483,23959.99908,0.777674934,30809787,Angola,Angola,Angola,1900,Lower-Middle Income
+Africa,Benin,BEN,1574,5480650,8966,53,1241.825298,7420.000076,0.646058116,11485035,Benin,Benin,Benin,1200,Lower-Middle Income
+Africa,Botswana,BWA,698,1598781,52050,23,7503.878588,7309.999943,3.243026912,2254067,Botswana,Botswana,Botswana,6780,Upper-Middle Income
+Africa,Burkina Faso,BFA,17304,16301067,181176,63,804.5005378,4670.000076,0.23643815,19751466,Burkina Faso,Burkina Faso,Burkina Faso,750,Low-Income
+Africa,Burundi,BDI,1218,4743136,15000,62,238.0343096,689.9999976,0.061742872,11175379,Burundi,Burundi,Burundi,250,Low-Income
+Africa,Cabo Verde,CPV,296,230262,4100,18,3616.460666,610.0000143,1.121810223,543764,Cabo Verde,Cabo Verde,Cabo Verde,3400,Lower-Middle Income
+Africa,Cameroon,CMR,6122,1082089,5200,55,1585.240534,9590.000153,0.380310156,25216261,Cameroon,Cameroon,Cameroon,1490,Lower-Middle Income
+Africa,Central African Republic,CAF,1019,314833,125,46,475.9538139,230.0000042,0.049288796,4666375,Central African Republic,Central African Republic,Central African Republic,490,Low-Income
+Africa,Chad,TCD,10556,14116673,94157,64,726.1510071,2190.000057,0.141493648,15477727,Chad,Chad,Chad,680,Low-Income
+Africa,Comoros (the),COM,661,864573,47804,24,1428.290463,300.0000119,0.360437441,832322,Comoros,Comoros,Comoros,1370,Lower-Middle Income
+Africa,Congo (the Democratic Republic of the),COD,18102,3592653,31200,144,565.8295429,3119.999886,0.037112771,84068092,"Congo, Dem. Rep.","Congo, Dem. Rep.","Congo, Dem. Rep.",500,Low-Income
+Africa,Congo (the),COG,4734,724427,59,35,2606.615526,6489.999771,1.237519175,5244363,"Congo, Rep.","Congo, Rep.","Congo, Rep.",1790,Lower-Middle Income
+Africa,Côte d’Ivoire,CIV,962,105051,0,31,2314.050958,10189.99958,0.406474439,25069226,Ivory Coast,Ivory Coast,Ivory Coast,2180,Lower-Middle Income
+Africa,Djibouti,DJI,344,2459298,5719,27,3038.269738,400.000006,0.417134646,958923,Djibouti,Djibouti,Djibouti,2910,Lower-Middle Income
+Africa,Egypt,EGY,1827,403851,1557000,35,2537.125185,247910.0037,2.518806451,98423602,"Egypt, Arab Rep.","Egypt, Arab Rep.","Egypt, Arab Rep.",2790,Lower-Middle Income
+Africa,Equatorial Guinea,GNQ,15,946,0,1,10005.61604,6429.999828,4.912274137,1308966,Equatorial Guinea,Equatorial Guinea,Equatorial Guinea,6730,Upper-Middle Income
+Africa,Eswatini,SWZ,709,3274262,55941,18,4107.094431,910.0000262,0.800863195,1136274,Eswatini,Eswatini,Eswatini,3620,Lower-Middle Income
+Africa,Ethiopia,ETH,416546,96826962,2152176,123,771.5248663,17239.99977,0.157840173,109224410,Ethiopia,Ethiopia,Ethiopia,800,Low-Income
+Africa,Gabon,GAB,117,110883,0,13,7959.007267,5119.999886,2.415920485,2119275,Gabon,Gabon,Gabon,6830,Upper-Middle Income
+Africa,Gambia (the),GMB,442,1506535,700,33,732.7207273,550.0000119,0.241218342,2280092,"Gambia, The","Gambia, The",Gambia,720,Low-Income
+Africa,Ghana,GHA,1824,17621601,120300,54,2260.860567,18680.00031,0.627538298,29767108,Ghana,Ghana,Ghana,2120,Lower-Middle Income
+Africa,Guinea,GIN,4130,613494,8000,38,955.1112811,3750,0.302071193,12414292,Guinea,Guinea,Guinea,860,Low-Income
+Africa,Guinea-Bissau,GNB,3044,314388,0,23,802.7673851,319.9999928,0.170730038,1874304,Guinea-Bissau,Guinea-Bissau,Guinea-Bissau,720,Low-Income
+Africa,Kenya,KEN,7406,71854225,869888,121,1794.091175,17489.99977,0.340321563,51392570,Kenya,Kenya,Kenya,1680,Lower-Middle Income
+Africa,Lesotho,LSO,123,4845062,1000,24,1192.48432,730.0000191,0.346246108,2108327,Lesotho,Lesotho,Lesotho,1230,Lower-Middle Income
+Africa,Liberia,LBR,5568,1599422,47000,25,710.2659984,1129.999995,0.23448965,4818976,Liberia,Liberia,Liberia,630,Low-Income
+Africa,Libya,LBY,320,27405,54300,4,11482.13364,56619.99893,8.477868963,6678565,Libya,Libya,Libya,11180,Upper-Middle Income
+Africa,Madagascar,MDG,5402,21164743,2361801,97,518.401123,3349.999905,0.12755921,26262313,Madagascar,Madagascar,Madagascar,500,Low-Income
+Africa,Malawi,MWI,3245,32437389,450489,76,544.5934593,1379.999995,0.076061492,18143215,Malawi,Malawi,Malawi,440,Low-Income
+Africa,Mali,MLI,4082,14064154,0,60,894.8048435,5469.99979,0.286721356,19077755,Mali,Mali,Mali,830,Low-Income
+Africa,Mauritania,MRT,287,13093392,61500,46,1669.773476,3690.000057,0.838005587,4403312,Mauritania,Mauritania,Mauritania,1640,Lower-Middle Income
+Africa,Mauritius,MUS,82,1062145,803373,22,11208.34382,4130.000114,3.264040403,1265303,Mauritius,Mauritius,Mauritius,12270,High-Income
+Africa,Morocco,MAR,14666,3700192,2051159,61,3226.98291,64959.99908,1.802987555,36029089,Morocco,Morocco,Morocco,3090,Lower-Middle Income
+Africa,Mozambique,MOZ,107175,42882243,3384750,121,503.3020092,6949.999809,0.235625091,29496009,Mozambique,Mozambique,Mozambique,460,Low-Income
+Africa,Namibia,NAM,555,3815727,195490,32,5588.392864,4230.000019,1.727729453,2448300,Namibia,Namibia,Namibia,4920,Upper-Middle Income
+Africa,Niger (the),NER,11108,39137299,282039,96,570.723922,1950.000048,0.086887436,22442831,Niger,Niger,Niger (the),570,Low-Income
+Africa,Nigeria,NGA,32591,16186217,1093525,139,2027.778549,109889.9994,0.561021958,195874685,Nigeria,Nigeria,Nigeria,1960,Lower-Middle Income
+Africa,Rwanda,RWA,1226,6272490,72009,54,783.8127901,1289.999962,0.104861259,12301969,Rwanda,Rwanda,Rwanda,780,Low-Income
+Africa,Sao Tome and Principe,STP,214,315080,0,5,1953.513257,140.0000006,0.6634065,211032,São Tomé and Principe,São Tomé and Principe,São Tomé and Principe,1870,Lower-Middle Income
+Africa,Senegal,SEN,1559,10748568,447235,53,1458.081584,10180.00031,0.642096144,15854324,Senegal,Senegal,Senegal,1390,Lower-Middle Income
+Africa,Seychelles,SYC,8,26016,41000,7,16910.66792,579.9999833,5.994088416,96762,Seychelles,Seychelles,Seychelles,15960,High-Income
+Africa,Sierra Leone,SLE,6742,331449,33600,33,533.9915333,860.0000143,0.112416113,7650149,Sierra Leone,Sierra Leone,Sierra Leone,490,Low-Income
+Africa,Somalia,SOM,50009,36063128,1175020,102,389.8313955,660.0000262,0.043975888,15008225,Somalia,Somalia,Somalia,400,Low-Income
+Africa,South Africa,ZAF,2852,34427208,10131070,119,7005.095413,434350.0061,7.515678605,57792520,South Africa,South Africa,South Africa,6340,Upper-Middle Income
+Africa,Sudan (the),SDN,162581,36512542,808200,106,773.5070801,20860.00061,0.499024787,41801532,Sudan,Sudan,Sudan,1390,Lower-Middle Income
+Africa,"Tanzania, United Republic of",TZA,10476,16873999,467790,117,1042.838745,12000,0.213092987,56313444,Tanzania,Tanzania,Tanzania,1030,Lower-Middle Income
+Africa,Togo,TGO,1199,1226845,700,29,901.5230169,2309.999943,0.292809244,7889095,Togo,Togo,Togo,880,Low-Income
+Africa,Tunisia,TUN,998,663667,476800,27,3690.896932,29889.99939,2.584476847,11565203,Tunisia,Tunisia,Tunisia,3760,Lower-Middle Income
+Africa,Uganda,UGA,5590,7491296,80171,106,770.6007843,5860.000134,0.137143292,42729032,Uganda,Uganda,Uganda,750,Low-Income
+Africa,Zambia,ZMB,1423,13153950,20900,52,1516.368371,7730.000019,0.445489133,17351714,Zambia,Zambia,Zambia,1440,Lower-Middle Income
+Africa,Zimbabwe,ZWE,7604,27553177,1037700,54,1254.642265,12380.00011,0.857411269,14438812,Zimbabwe,Zimbabwe,Zimbabwe,1350,Lower-Middle Income
+Americas,Antigua and Barbuda,ATG,13,127314,793600,13,16679.59166,509.9999905,5.296940139,96282,Antigua and Barbuda,Antigua and Barbuda,Antigua and Barbuda,15880,High-Income
+Americas,Argentina,ARG,1646,15177074,15727410,123,11795.15939,176899.9939,3.975771971,44494502,Argentina,Argentina,Argentina,12430,High-Income
+Americas,Bahamas (the),BHS,414,56053,6745100,24,33077.39183,2799.999952,7.260751623,385635,"Bahamas, The","Bahamas, The",Bahamas,31070,High-Income
+Americas,Barbados,BRB,62,14228,107200,13,17782.87473,1240.00001,4.325983846,286640,Barbados,Barbados,Barbados,16610,High-Income
+Americas,Belize,BLZ,360,396525,632004,21,4927.194224,629.9999952,1.644603729,383071,Belize,Belize,Belize,4560,Upper-Middle Income
+Americas,Bermuda,BMU,4,40,353500,5,113050.7369,,,63918,Bermuda,Bermuda,Bermuda,117000,High-Income
+Americas,Bolivia (Plurinational State of),BOL,2392,9781967,3787718,106,3548.59078,23229.99954,2.046129929,11353140,Bolivia,Bolivia,Bolivia,3370,Lower-Middle Income
+Americas,Brazil,BRA,13350,117369425,30472381,258,9151.381732,433989.9902,2.071854677,209469320,Brazil,Brazil,Brazil,9140,Upper-Middle Income
+Americas,Canada,CAN,1845,686614,38138012,133,46548.63841,580090.0269,15.65057904,37065084,Canada,Canada,Canada,45080,High-Income
+Americas,Cayman Islands (the),CYM,2,300,3496580,7,86180.53969,,,64172,Cayman Islands,Cayman Islands,Cayman Islands,59480,High-Income
+Americas,Chile,CHL,9147,12399624,39927770,108,15772.33348,86610.00061,4.624338351,18729166,Chile,Chile,Chile,14580,High-Income
+Americas,Colombia,COL,32879,18869782,7334469,214,6729.583332,78589.99634,1.582527692,49661056,Colombia,Colombia,Colombia,6270,Upper-Middle Income
+Americas,Costa Rica,CRI,548,2276061,1387090,73,12485.4239,8369.999886,1.674186481,4999443,Costa Rica,Costa Rica,Costa Rica,11970,Upper-Middle Income
+Americas,Cuba,CUB,2039,24197379,14863697,82,8824.194008,26709.99908,2.355764257,11338146,Cuba,Cuba,Cuba,8630,Upper-Middle Income
+Americas,Dominica,DMA,140,196383,2223060,14,7745.376963,170.0000018,2.373439837,71626,Dominica,Dominica,Dominica,7800,Upper-Middle Income
+Americas,Dominican Republic (the),DOM,3787,7594867,3119635,83,8050.644076,25309.99947,2.381636338,10627147,Dominican Republic,Dominican Republic,Dominican Republic,7780,Upper-Middle Income
+Americas,Ecuador,ECU,8844,5405328,5819245,110,6295.934662,40139.99939,2.349517438,17084359,Ecuador,Ecuador,Ecuador,6090,Upper-Middle Income
+Americas,El Salvador,SLV,5716,5083854,6974810,71,4052.624775,6809.999943,1.060625402,6420740,El Salvador,El Salvador,El Salvador,3820,Lower-Middle Income
+Americas,Grenada,GRD,45,61285,904500,8,10466.88221,319.9999928,2.871268408,111449,Grenada,Grenada,Guadeloupe,9610,Upper-Middle Income
+Americas,Guatemala,GTM,28476,22158467,4839132,118,4478.424646,18319.99969,1.120698338,16346950,Guatemala,Guatemala,Guatemala,4400,Upper-Middle Income
+Americas,Guyana,GUY,34,1313248,678000,13,6145.819277,2589.999914,3.324745367,779007,Guyana,Guyana,Guyana,6290,Upper-Middle Income
+Americas,Haiti,HTI,248699,20133609,13017936,132,1479.345827,3289.999962,0.295778642,11123183,Haiti,Haiti,Haiti,1410,Lower-Middle Income
+Americas,Honduras,HND,27299,12082878,5183879,92,2510.322943,10050.00019,1.048237401,9587523,Honduras,Honduras,Honduras,2330,Lower-Middle Income
+Americas,Jamaica,JAM,442,2705422,2836122,40,5359.993789,8609.999657,2.933707295,2934853,Jamaica,Jamaica,Jamaica,5010,Upper-Middle Income
+Americas,Mexico,MEX,22888,20710568,55299415,290,9686.984927,452570.0073,3.58639514,126190782,Mexico,Mexico,Mexico,9180,Upper-Middle Income
+Americas,Nicaragua,NIC,15314,5922590,3653959,84,2014.575189,5110.000134,0.79034855,6465502,Nicaragua,Nicaragua,Nicaragua,1970,Lower-Middle Income
+Americas,Panama,PAN,495,411014,397550,62,15544.99908,10060.00042,2.408503314,4176868,Panama,Panama,Panama,14490,High-Income
+Americas,Paraguay,PRY,380,4324790,153557,59,5782.78455,8470.000267,1.217641784,6956069,Paraguay,Paraguay,Paraguay,5600,Upper-Middle Income
+Americas,Peru,PER,89780,23408766,6446250,200,6958.497262,54590.00015,1.706509986,31989265,Peru,Peru,Peru,6480,Upper-Middle Income
+Americas,Puerto Rico,PRI,833,935799,72657800,34,31604.70151,,,3193354,Puerto Rico,Puerto Rico,Puerto Rico,21080,High-Income
+Americas,Saint Kitts and Nevis,KNA,6,14780,704900,10,20567.25826,250,4.767534994,52438,St. Kitts and Nevis,St. Kitts and Nevis,St. Kitts and Nevis,19780,High-Income
+Americas,Saint Lucia,LCA,48,313427,173245,21,11353.71523,529.9999714,2.913848872,181890,St. Lucia,St. Lucia,St. Lucia,10720,Upper-Middle Income
+Americas,Saint Vincent and the Grenadines,VCT,154,109680,511600,23,8024.028496,250,2.268396697,110210,St. Vincent and the Grenadines,St. Vincent and the Grenadines,St. Vincent and the Grenadines,7990,Upper-Middle Income
+Americas,Sint Maarten (Dutch part),SXM,4,5040,2500000,1,28988.25921,,,40895,Sint Maarten (Dutch part),Sint Maarten (Dutch part),Sint Maarten (Dutch part),27510,High-Income
+Americas,Suriname,SUR,5,55248,50,5,6938.086981,2210.000038,3.836892218,575987,Suriname,Suriname,Suriname,5970,Upper-Middle Income
+Americas,Trinidad and Tobago,TTO,34,203187,64770,12,17139.18567,17780.00069,12.79283075,1389841,Trinidad and Tobago,Trinidad and Tobago,Trinidad and Tobago,16120,High-Income
+Americas,Turks and Caicos Islands (the),TCA,4,2470,1000005,7,29553.1367,,,37667,Turks and Caicos Islands,Turks and Caicos Islands,Turks and Caicos Islands,28340,High-Income
+Americas,United States of America (the),USA,24921,115636239,1350195280,1059,62805.25376,4975310.059,15.22254765,326838199,United States,United States,United States,63490,High-Income
+Americas,Uruguay,URY,44,293803,867000,35,18703.86029,6539.999962,1.896042363,3449290,Uruguay,Uruguay,Uruguay,17280,High-Income
+Asia,Afghanistan,AFG,26721,34815618,603320,210,485.6684187,6070.000172,0.1632953,37171922,Afghanistan,Afghanistan,Afghanistan,510,Low-Income
+Asia,Armenia,ARM,5,420330,203275,11,4220.540321,5710.000038,1.934451579,2951741,Armenia,Armenia,Armenia,4240,Upper-Middle Income
+Asia,Azerbaijan,AZE,68,2575271,211200,15,4739.84171,32729.99954,3.292832354,9939771,Azerbaijan,Azerbaijan,Azerbaijan,4080,Upper-Middle Income
+Asia,Bahrain,BHR,111,0,0,1,24086.30169,30809.99947,19.63120569,1569440,Bahrain,Bahrain,Bahrain,22000,High-Income
+Asia,Bangladesh,BGD,634392,471530136,21893565,342,1991.483267,83449.99695,0.517113005,161376713,Bangladesh,Bangladesh,Bangladesh,2040,Lower-Middle Income
+Asia,Bhutan,BTN,314,87871,3500,12,3243.477437,1049.999952,1.391841887,754396,Bhutan,Bhutan,Bhutan,2970,Lower-Middle Income
+Asia,Brunei Darussalam,BRN,0,0,2000,1,31628.47626,7539.999962,17.5773964,428960,Brunei Darussalam,Brunei Darussalam,Brunei Darussalam,29390,High-Income
+Asia,Cambodia,KHM,2530,24163819,1659110,46,1512.126989,14579.99992,0.897242084,16249795,Cambodia,Cambodia,Cambodia,1380,Lower-Middle Income
+Asia,China,CHN,2506289,3283546568,613469613,940,9905.342004,10502929.69,7.487331894,1402760000,China,China,China,9540,Upper-Middle Income
+Asia,Cyprus,CYP,110,8535,61440,15,29334.11133,7199.999809,6.054174614,1189262,Cyprus,Cyprus,Cyprus,27330,High-Income
+Asia,Georgia,GEO,76,906302,700856,27,4722.042423,9569.999695,2.568059536,3726549,Georgia,Georgia,Georgia,4460,Upper-Middle Income
+Asia,Hong Kong,HKG,1477,147088,1315943,103,48537.56689,,,7452600,"Hong Kong SAR, China","Hong Kong SAR, China",Hong Kong,50050,High-Income
+Asia,India,IND,1733196,2481031102,145303486,733,1998.259076,2451929.932,1.8126965,1352642283,India,India,India,2010,Lower-Middle Income
+Asia,Indonesia,IDN,218639,37504402,34681238,578,3893.859578,576989.9902,2.15559759,267670549,Indonesia,Indonesia,Indonesia,3840,Lower-Middle Income
+Asia,Iran (Islamic Republic of),IRN,146447,60242218,30406696,239,4046.341864,637429.9927,7.792523264,81800204,"Iran, Islamic Rep.","Iran, Islamic Rep.",Iran,5110,Upper-Middle Income
+Asia,Iraq,IRQ,229,8111089,175300,30,5915.850854,163149.9939,4.244982955,38433604,Iraq,Iraq,Iraq,5040,Upper-Middle Income
+Asia,Israel,ISR,124,2085182,2082750,19,42063.45313,61080.00183,6.87621041,8882800,Israel,Israel,Israel,41320,High-Income
+Asia,Japan,JPN,52828,19551450,540788500,339,39727.1166,1116150.024,8.801681435,126811000,Japan,Japan,Japan,41770,High-Income
+Asia,Jordan,JOR,380,355337,403400,17,4308.151074,24780.00069,2.486623181,9965322,Jordan,Jordan,Jordan,4270,Upper-Middle Income
+Asia,Kazakhstan,KAZ,237,906058,285570,25,9812.626371,216600.0061,11.8513159,18276452,Kazakhstan,Kazakhstan,Kazakhstan,8070,Upper-Middle Income
+Asia,Korea (the Republic of),KOR,8040,6993125,18529257,128,33436.92306,630640.0146,12.22524582,51585058,"Korea, Rep.","Korea, Rep.",North Korea,32750,High-Income
+Asia,Kuwait,KWT,3,201,0,3,33399.06048,91389.99939,22.08921039,4137314,Kuwait,Kuwait,Kuwait,33710,High-Income
+Asia,Kyrgyzstan,KGZ,477,2289812,217760,32,1308.140165,11250,1.779275005,6322800,Kyrgyz Republic,Kyrgyz Republic,Kyrgyzstan,1220,Lower-Middle Income
+Asia,Lao People's Democratic Republic (the),LAO,1606,11661248,802729,56,2569.093892,19360.00061,2.741627996,7061498,Lao PDR,Lao PDR,Laos,2490,Lower-Middle Income
+Asia,Lebanon,LBN,645,1135991,165000,14,8003.827612,27790.00092,4.051370164,6859408,Lebanon,Lebanon,Lebanon,7590,Upper-Middle Income
+Asia,Macao,MAC,10,4187,1420000,7,87526.07999,,,631633,"Macao SAR, China","Macao SAR, China",Macao,76460,High-Income
+Asia,Malaysia,MYS,1544,4171082,3816142,102,11380.07922,244410.0037,7.752148815,31528033,Malaysia,Malaysia,Malaysia,10650,Upper-Middle Income
+Asia,Maldives,MDV,325,68679,506100,8,10279.07998,2099.999905,4.072103192,515704,Maldives,Maldives,Maldives,9210,Upper-Middle Income
+Asia,Mongolia,MNG,1576,4990247,2001864,40,4156.84697,21549.99924,6.79764812,3170214,Mongolia,Mongolia,Mongolia,3690,Lower-Middle Income
+Asia,Myanmar,MMR,141987,9794131,4867413,76,1250.173685,32939.99863,0.613312795,53708318,Myanmar,Myanmar,Myanmar,1220,Lower-Middle Income
+Asia,Nepal,NPL,25170,17919237,6831555,133,1178.525957,15189.99958,0.540651882,28095712,Nepal,Nepal,Nepal,1120,Lower-Middle Income
+Asia,Oman,OMN,316,33269,5252000,17,18947.3665,75599.99847,15.65387186,4829476,Oman,Oman,Oman,16370,High-Income
+Asia,Pakistan,PAK,116581,132102815,29937969,234,1678.04315,187309.9976,0.882587328,212228288,Pakistan,Pakistan,Pakistan,1670,Lower-Middle Income
+Asia,"Palestine, State of",PSE,17,130064,0,10,3562.330943,,,4569087,West Bank and Gaza,West Bank and Gaza,Wallis and Futuna,4190,Upper-Middle Income
+Asia,Philippines (the),PHL,68326,251244829,29695925,657,3252.110274,138570.0073,1.299279851,106651394,Philippines,Philippines,Philippines,3710,Lower-Middle Income
+Asia,Qatar,QAT,0,1500,10000,1,65907.94843,86419.99817,31.0675333,2781682,Qatar,Qatar,Qatar,58830,High-Income
+Asia,Saudi Arabia,SAU,647,34760,1702000,29,24228.83904,521260.0098,15.46639077,33702757,Saudi Arabia,Saudi Arabia,Saudi Arabia,21860,High-Income
+Asia,Singapore,SGP,36,15289,0,4,66859.33834,47400.00153,8.406228967,5638676,Singapore,Singapore,Singapore,56670,High-Income
+Asia,Sri Lanka,LKA,40079,32270567,4475364,122,4059.20823,21690.00053,1.00092296,21670000,Sri Lanka,Sri Lanka,Sri Lanka,4040,Upper-Middle Income
+Asia,Syrian Arab Republic,SYR,235,8262773,44000,18,1265.60619,27389.99939,1.616400069,16945062,Syrian Arab Republic,Syrian Arab Republic,Syria,930,Low-Income
+Asia,Tajikistan,TJK,2252,6815710,1814384,74,853.2188734,8680.000305,0.953757415,9100847,Tajikistan,Tajikistan,Tajikistan,1030,Lower-Middle Income
+Asia,Thailand,THA,14609,110830159,53193908,165,7298.947146,257049.9878,3.702372341,69428454,Thailand,Thailand,Thailand,6610,Upper-Middle Income
+Asia,Timor-Leste,TLS,93,289925,24000,14,1249.138351,610.0000143,0.481082052,1267975,Timor-Leste,Timor-Leste,Timor-Leste,1820,Lower-Middle Income
+Asia,Turkey,TUR,36782,9648261,29104670,170,9454.348443,411730.011,5.000359011,82340090,Türkiye,Türkiye,Turkey,10510,Upper-Middle Income
+Asia,Turkmenistan,TKM,11,420,99870,2,6967.375043,73050.00305,12.48525493,5850902,Turkmenistan,Turkmenistan,Turkmenistan,6740,Upper-Middle Income
+Asia,United Arab Emirates (the),ARE,0,188,0,1,43839.32449,177119.9951,18.39067806,9630966,United Arab Emirates,United Arab Emirates,United Arab Emirates,41470,High-Income
+Asia,Uzbekistan,UZB,104,722279,50000,10,1597.068337,112470.0012,3.412721809,32956100,Uzbekistan,Uzbekistan,Uzbekistan,2110,Lower-Middle Income
+Asia,Viet Nam,VNM,27297,97981924,23416066,255,3230.927713,285600.0061,2.989137469,95545959,Vietnam,Vietnam,Vietnam,3030,Lower-Middle Income
+Asia,Yemen,YEM,2371,1845637,1831500,58,758.1459489,9720.000267,0.341068402,28498683,"Yemen, Rep.","Yemen, Rep.",Yemen,910,Low-Income
+Europe,Albania,ALB,290,4384706,803573,38,5287.663694,5110.000134,1.782738948,2866376,Albania,Albania,Albania,4860,Upper-Middle Income
+Europe,Austria,AUT,798,72639,6739770,54,51486.5755,63060.00137,7.133063919,8840521,Austria,Austria,Austria,49010,High-Income
+Europe,Belarus,BLR,74,209591,177680,14,6360.062473,58950.00076,6.245507315,9438785,Belarus,Belarus,Belarus,5730,Upper-Middle Income
+Europe,Belgium,BEL,4823,109983,4260132,64,47549.20805,93660.00366,8.196338589,11427054,Belgium,Belgium,Belgium,46070,High-Income
+Europe,Bosnia and Herzegovina,BIH,48,1680966,821580,28,6070.35298,22600.00038,6.799182648,3323929,Bosnia and Herzegovina,Bosnia and Herzegovina,Bosnia and Herzegovina,5750,Upper-Middle Income
+Europe,Bulgaria,BGR,206,71563,1420304,49,9446.700772,40900.00153,5.82203361,7025037,Bulgaria,Bulgaria,Bulgaria,8530,Upper-Middle Income
+Europe,Croatia,HRV,868,249667,13872150,30,15227.5601,16430.00031,4.019234669,4087843,Croatia,Croatia,Croatia,14410,High-Income
+Europe,Czech Republic (the),CZE,598,1626170,6668012,32,23419.73561,100900.0015,9.492068199,10629928,Czech Republic,Czech Republic,Czech Republic (the),20560,High-Income
+Europe,Denmark,DNK,27,0,5196639,17,61591.92887,33130.00107,5.718343553,5793636,Denmark,Denmark,Denmark,61260,High-Income
+Europe,Estonia,EST,11,100,130000,4,23063.56382,15319.99969,11.58870366,1321977,Estonia,Estonia,Estonia,21200,High-Income
+Europe,Finland,FIN,0,400,10000,3,49988.91085,44580.00183,8.082639791,5515525,Finland,Finland,Finland,48220,High-Income
+Europe,France,FRA,28648,4227785,51975700,188,41592.7959,307049.9878,4.575874163,67101930,France,France,France,41200,High-Income
+Europe,Germany,DEU,9918,578301,97889605,86,47973.60762,707700.0122,8.536196091,82905782,Germany,Germany,Germany,47470,High-Income
+Europe,Greece,GRC,2562,1313325,13790809,99,19756.99046,65019.99664,6.0580184,10732882,Greece,Greece,Greece,19080,High-Income
+Europe,Hungary,HUN,1211,406763,1960400,34,16427.37276,46400.00153,4.746529359,9775564,Hungary,Hungary,Hungary,14980,High-Income
+Europe,Iceland,ISL,51,5768,70989,13,74469.80406,1700.000048,4.819673475,352721,Iceland,Iceland,Iceland,67760,High-Income
+Europe,Ireland,IRL,48,6275,678050,25,79107.60499,37659.99985,7.737323783,4867316,Ireland,Ireland,Ireland,59350,High-Income
+Europe,Isle of Man,IMN,0,0,0,1,89112.66772,,,84073,Isle of Man,Isle of Man,Isle of Man,83660,High-Income
+Europe,Italy,ITA,30673,3899563,98331263,163,34622.16967,324880.0049,5.37687093,60421760,Italy,Italy,Italy,33850,High-Income
+Europe,Latvia,LVA,92,102,325500,9,17865.03109,7789.999962,4.042188179,1927174,Latvia,Latvia,Latvia,16550,High-Income
+Europe,Lithuania,LTU,104,780000,313573,14,19186.18128,11649.99962,4.158422562,2801543,Lithuania,Lithuania,Lithuania,17470,High-Income
+Europe,Luxembourg,LUX,170,1519,421000,13,117254.7404,9319.999695,15.33020757,607950,Luxembourg,Luxembourg,Luxembourg,79540,High-Income
+Europe,Macedonia (the former Yugoslav Republic of),MKD,69,1361548,409163,24,6108.740108,7300.000191,3.51601022,2076217,North Macedonia,North Macedonia,Niue,5500,Upper-Middle Income
+Europe,Moldova (the Republic of),MDA,89,2908212,800184,16,4230.626969,8539.999962,3.153369697,2708214,Moldova,Moldova,Moldova,3920,Upper-Middle Income
+Europe,Montenegro,MNE,1,12586,0,6,8850.378404,2500,4.017826292,622227,Montenegro,Montenegro,Montenegro,8450,Upper-Middle Income
+Europe,Netherlands (the),NLD,4823,565325,5784711,42,53044.53244,151360.0006,8.783850008,17231624,Netherlands,Netherlands,Netherlands,51320,High-Income
+Europe,Norway,NOR,16,7860,693000,13,82267.80932,37590.00015,7.076542655,5311916,Norway,Norway,Norway,80320,High-Income
+Europe,Poland,POL,2307,383173,8427050,62,15468.48222,311910.0037,8.213615723,37974750,Poland,Poland,Poland,14150,High-Income
+Europe,Portugal,PRT,4061,213531,7710736,51,23562.55452,49500,4.813385529,10283822,Portugal,Portugal,Portugal,22060,High-Income
+Europe,Romania,ROU,2953,2057777,6189918,91,12398.98198,75190.00244,3.86105157,19473970,Romania,Romania,Romania,11430,Upper-Middle Income
+Europe,Russian Federation (the),RUS,61640,4830565,11646996,174,11287.36035,1661000,11.49657125,144477859,Russian Federation,Russian Federation,Russian Federation (the),10250,Upper-Middle Income
+Europe,Serbia,SRB,96,224502,2308522,27,7252.401858,46130.00107,6.606418045,6982604,Serbia,Serbia,Serbia,6410,Upper-Middle Income
+Europe,Slovakia,SVK,204,59658,785600,23,19389.98216,33000,6.058635474,5446771,Slovak Republic,Slovak Republic,Slovakia,18340,High-Income
+Europe,Slovenia,SVN,301,68405,752000,11,26116.85636,14069.99969,6.784338879,2073894,Slovenia,Slovenia,Slovenia,24640,High-Income
+Europe,Spain,ESP,17337,6858631,32641297,104,30364.57994,257040.0085,5.492571471,46797754,Spain,Spain,Spain,29310,High-Income
+Europe,Sweden,SWE,43,13900,3328800,16,54589.06039,36009.99832,3.538991742,10175214,Sweden,Sweden,Sweden,55690,High-Income
+Europe,Switzerland,CHE,1408,9923,8199760,62,86388.40495,37479.99954,4.40199099,8514329,Switzerland,Switzerland,Switzerland,83280,High-Income
+Europe,Ukraine,UKR,1505,2911081,3835475,39,3096.561768,185619.9951,4.159783074,44622518,Ukraine,Ukraine,Ukraine,2750,Lower-Middle Income
+Europe,United Kingdom of Great Britain and Northern Ireland (the),GBR,8311,768085,37387180,103,43646.95197,360730.011,5.427748177,66460344,United Kingdom,United Kingdom,United Kingdom,42410,High-Income
+Oceania,Australia,AUS,2177,16360448,73294234,214,57180.7794,387070.0073,15.49352925,24982688,Australia,Australia,Australia,53070,High-Income
+Oceania,Fiji,FJI,449,2551435,1367853,60,6317.413723,1629.999995,1.844955795,883490,Fiji,Fiji,Fiji,5910,Upper-Middle Income
+Oceania,Kiribati,KIR,20,86857,0,6,1693.950155,90.00000358,0.776920319,115842,Kiribati,Kiribati,Kiribati,3170,Lower-Middle Income
+Oceania,Marshall Islands (the),MHL,6,43888,4900,8,3793.550983,180.0000072,3.081558706,58412,Marshall Islands,Marshall Islands,Marshall Islands,4840,Upper-Middle Income
+Oceania,Micronesia (Federated States of),FSM,77,186065,17500,11,3568.291016,170.0000018,1.50923297,112640,"Micronesia, Fed. Sts.","Micronesia, Fed. Sts.",Micronesia (Federated States of),3400,Lower-Middle Income
+Oceania,New Zealand,NZL,436,664912,31117035,74,43250.44097,32360.00061,6.603273193,4900600,New Zealand,New Zealand,New Zealand,41650,High-Income
+Oceania,Palau,PLW,0,22862,0,5,15895.2599,250,13.95790296,17911,Palau,Palau,Palau,17380,High-Income
+Oceania,Papua New Guinea,PNG,9916,4812196,353003,89,2801.371393,7559.999943,0.878423813,8606324,Papua New Guinea,Papua New Guinea,Papua New Guinea,2600,Lower-Middle Income
+Oceania,Samoa,WSM,534,403908,816128,16,4187.504787,289.9999917,1.478626161,196128,Samoa,Samoa,Samoa,4050,Upper-Middle Income
+Oceania,Solomon Islands,SLB,755,596453,50000,37,2411.897904,360.0000143,0.551423307,652856,Solomon Islands,Solomon Islands,Solomon Islands,2360,Lower-Middle Income
+Oceania,Tonga,TON,28,398688,350900,24,4740.700272,159.9999964,1.550402586,103199,Tonga,Tonga,Tonga,4800,Upper-Middle Income
+Oceania,Tuvalu,TUV,6,21867,0,9,4156.305128,9.999999776,0.86918729,11505,Tuvalu,Tuvalu,Tuvalu,5820,Upper-Middle Income
+Oceania,Vanuatu,VUT,254,687539,656650,50,3125.436014,209.9999934,0.71751941,292675,Vanuatu,Vanuatu,Vanuatu,3170,Lower-Middle Income
