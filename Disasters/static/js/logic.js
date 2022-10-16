@@ -40,7 +40,7 @@ L.control.layers(overlayMaps, markerLayer, {
 const link = "https://raw.githubusercontent.com/nitchon/project-3/main/Working%20Maps/static/data/countries.geojson";
 
 
-// d3.json("http://127.0.0.1:5000/summary").then(function(data){
+// d3.json("https://n-disaster.herokuapp.com/summary").then(function(data){
 //   let most_deaths = data.sort((a,b)=>b[2]-a[2]).slice(0,10).reverse();
 //   let trace1 = {
 //     x:most_deaths.map(object=>object[2]),
@@ -72,7 +72,7 @@ var affectedlayer;
 let features = [];
 
 function init() {
-  d3.json("http://127.0.0.1:5000/disaster").then(function (data) {
+  d3.json("https://n-disaster.herokuapp.com/disaster").then(function (data) {
     let disasters2022 = data.filter(row => row[1] == 2022)
     let top10 = disasters2022.sort((a, b) => b[16] - a[16]).slice(0, 11)
     for (row of top10) {
@@ -85,7 +85,7 @@ function init() {
   d3.json(link).then(function (data) {
     let geo = data['features']
     geodata = geo
-    d3.json("http://127.0.0.1:5000/summary").then(function (data) {
+    d3.json("https://n-disaster.herokuapp.com/summary").then(function (data) {
       for (row of data) {
         country = row[0]
         instances = parseInt(row[5])

@@ -1,4 +1,4 @@
-// d3.json("http://127.0.0.1:5000/summary").then(function (data) {
+// d3.json("https://n-disaster.herokuapp.com/summary").then(function (data) {
 //     let most_deaths = data.sort((a, b) => b[2] - a[2]).slice(0, 10).reverse();
 //     let trace1 = {
 //         x: most_deaths.map(object => object[2]),
@@ -68,7 +68,7 @@ function plots(id) {
             layers: [world]
         });
     }
-    d3.json("http://127.0.0.1:5000/countrySum").then(function (data) {
+    d3.json("https://n-disaster.herokuapp.com/countrySum").then(function (data) {
         let features = [];
         dataSelect = data.filter(obj => obj[0] === id)
         top5 = dataSelect.sort((a, b) => b[3] - a[3]).slice(0, 5)
@@ -137,11 +137,11 @@ function plots(id) {
     })
 };
 function graphs(id) {
-    d3.json("http://127.0.0.1:5000/countrySum").then(function (data) {
+    d3.json("https://n-disaster.herokuapp.com/countrySum").then(function (data) {
         let features = [];
         dataSelect = data.filter(obj => obj[0] === id)
         top5 = dataSelect.sort((a, b) => b[3] - a[3]).slice(0, 5)
-        d3.json('http://127.0.0.1:5000/countryBD').then(function (data) {
+        d3.json('https://n-disaster.herokuapp.com/countryBD').then(function (data) {
             selection = data.filter(obj => obj[0] === top5[0][1])
             let instancesData = [{
                 values: selection.map(obj => obj[7]),
@@ -188,7 +188,7 @@ function graphs(id) {
             // for (row of top3) {
             //     types.push(row[2])
             // }
-            // d3.json('http://127.0.0.1:5000/countryYearly').then(function (data) {
+            // d3.json('https://n-disaster.herokuapp.com/countryYearly').then(function (data) {
             //     lineSelection = data.filter(obj => obj[0] === types[0])
             //     let traceData = [{
             //         x: lineSelection.map(obj => obj[1]),
@@ -211,17 +211,17 @@ function graphs(id) {
 
 
 // function LinePlots(Lineid) {
-//     d3.json("http://127.0.0.1:5000/countrySum").then(function (data) {
+//     d3.json("https://n-disaster.herokuapp.com/countrySum").then(function (data) {
 //         dataSelect = data.filter(obj => obj[0] === id)
 //         top5 = dataSelect.sort((a, b) => b[3] - a[3]).slice(0, 5)
-//         d3.json('http://127.0.0.1:5000/countryBD').then(function (data) {
+//         d3.json('https://n-disaster.herokuapp.com/countryBD').then(function (data) {
 //             selection = data.filter(obj => obj[0] === top5[0][1])
 //             top3 = selection.sort((a, b) => b[4] - a[4]).slice(0, 3)
 //             let types = []
 //             for (row of top3) {
 //                 types.push(row[2])
 //             }
-//             d3.json('http://127.0.0.1:5000/countryYearly').then(function (data) {
+//             d3.json('https://n-disaster.herokuapp.com/countryYearly').then(function (data) {
 //                 lineSelection = data.filter(obj => obj[0] === types[0])
 //                 let traceData = [{
 //                     x: lineSelection.map(obj => obj[1]),

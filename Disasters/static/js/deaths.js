@@ -31,7 +31,7 @@ function plots() {
     d3.json(link).then(function (data) {
         let geo = data['features']
         geodata = geo
-        d3.json("http://127.0.0.1:5000/summary").then(function (data) {
+        d3.json("https://n-disaster.herokuapp.com/summary").then(function (data) {
             for (row of data) {
                 country = row[0]
                 instances = parseInt(row[5])
@@ -106,7 +106,7 @@ function plots() {
 
     })
 
-    d3.json("http://127.0.0.1:5000/deaths_data").then(function (data) {
+    d3.json("https://n-disaster.herokuapp.com/deaths_data").then(function (data) {
         let death_data = [{
             x: data.map(row => row[0]),
             y: data.map(row => row[1]),
@@ -158,7 +158,7 @@ function plots() {
 }
 function LinePlots(Lineid) {
     if (Lineid === 'Totals') {
-        d3.json("http://127.0.0.1:5000/income").then(function (data) {
+        d3.json("https://n-disaster.herokuapp.com/income").then(function (data) {
             brackets = ["Low-Income", "Lower-Middle Income", "Upper-Middle Income", "High-Income"]
             let lowData = {
                 x: data.filter(obj => obj[0] === 'Low-Income').map(obj => obj[1]),
@@ -212,7 +212,7 @@ function LinePlots(Lineid) {
         })
     }
     else {
-        d3.json("http://127.0.0.1:5000/incomeDecade").then(function (data) {
+        d3.json("https://n-disaster.herokuapp.com/incomeDecade").then(function (data) {
             brackets = ["Low-Income", "Lower-Middle Income", "Upper-Middle Income", "High-Income"]
             let lowData = {
                 x: data.filter(obj => obj[0] === 'Low-Income').map(obj => obj[1]),

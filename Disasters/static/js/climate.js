@@ -1,4 +1,4 @@
-d3.json("http://127.0.0.1:5000/decade").then(data => {
+d3.json("https://n-disaster.herokuapp.com/decade").then(data => {
     decade=data
     drought = data.filter(row => row[1] === 'Drought')
     flood = data.filter(row => row[1] === 'Flood')
@@ -305,7 +305,7 @@ d3.json("http://127.0.0.1:5000/decade").then(data => {
         }
     })
 })
-d3.json("http://127.0.0.1:5000/tempchange").then(function(data){
+d3.json("https://n-disaster.herokuapp.com/tempchange").then(function(data){
     let color=[]    
     for (row of data){
             if (row[1]>0){

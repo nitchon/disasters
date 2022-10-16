@@ -1,5 +1,5 @@
 function Plots(id) {
-    d3.json('http://127.0.0.1:5000/continent_breakdown').then(data => {
+    d3.json('https://n-disaster.herokuapp.com/continent_breakdown').then(data => {
         dataSelect = data.filter(obj => obj[0] === id)
         let instancesData = [{
             values: dataSelect.map(obj => obj[6]),
@@ -45,7 +45,7 @@ function Plots(id) {
 }
 
 function LinePlots(Lineid) {
-    d3.json('http://127.0.0.1:5000/continent_decade').then(data => {
+    d3.json('https://n-disaster.herokuapp.com/continent_decade').then(data => {
         if (Lineid === 'Deaths') {
             sel = 3
         }

@@ -27,7 +27,7 @@ L.control.layers(overlayMaps, markerLayer, {
 const link = "https://raw.githubusercontent.com/nitchon/project-3/main/Working%20Maps/static/data/countries.geojson";
 
 function mapping() {
-    d3.json("http://127.0.0.1:5000/disaster").then(function (data) {
+    d3.json("https://n-disaster.herokuapp.com/disaster").then(function (data) {
         let worstfloods = data.filter(row => row[3] == 'Flood')
         let top10 = worstfloods.sort((a, b) => b[16] - a[16]).slice(0, 11)
         for (row of top10) {
@@ -41,7 +41,7 @@ function mapping() {
         let geo = data['features']
         geodata = geo
         let features = []
-        d3.json("http://127.0.0.1:5000/type_breakdown").then(function (data) {
+        d3.json("https://n-disaster.herokuapp.com/type_breakdown").then(function (data) {
             flood = data.filter(row => row[1] === "Flood")
             for (row of flood) {
                 country = row[0]
@@ -226,7 +226,7 @@ function LinePlots(Lineid) {
     else {
         sel = 6
     };
-    d3.json("http://127.0.0.1:5000/decade").then(data => {
+    d3.json("https://n-disaster.herokuapp.com/decade").then(data => {
         decade = data
         flood = data.filter(row => row[1] === 'Flood')
 
@@ -248,7 +248,7 @@ function LinePlots(Lineid) {
         };
         Plotly.newPlot('line', lineData, layout)
     })
-    d3.json("http://127.0.0.1:5000/type_breakdown").then(function (data) {
+    d3.json("https://n-disaster.herokuapp.com/type_breakdown").then(function (data) {
         let flood = data.filter(row => row[1] === "Flood")
         let top10=flood.sort((a,b)=>b[sel]-a[sel]).slice(0,10).reverse()
     var barData=[{
